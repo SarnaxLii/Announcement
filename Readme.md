@@ -149,7 +149,7 @@ SOURCE CODE + DRIVER + INJECTOR + IMGUI + LOADER + KEYAUTH (IF YOU WANT RE-SELL)
 
 - If you want to share cheats with your friends / need to pay +40 USD per person, limited to max 5 people only.
 
-- When someone tries to crack my program They will immediately have all the information stolen. Of course, our defense system is very strong.
+- When someone tries to crack my program They must meet an end that will not dare to do anything else ^^
 
  ---
  
