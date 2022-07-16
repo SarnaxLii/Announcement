@@ -19,6 +19,8 @@
 - [🌌・Discord](#discord)
 - [🧹・Spoofer](#Spoofer)
 - [🔒・Hardware ID Locking](#HardwareID)
+- [📁・Source Code](#source)
+- [🛒・Re-Sell](#resell)
 
 ## <a id="Project_Private"></a>🔴 〢 What is Project Private 
 
@@ -87,3 +89,36 @@
 
 ---
 
+## <a id="source"></a>📁 〢 Source Code
+  
+  - This is what you get when you purchase the source code.
+  
+```
+SOURCE CODE + DRIVER + INJECTOR + IMGUI + LOADER + KEYAUTH (IF YOU WANT RE-SELL) + DEF CRACK + BYPASS 
+```
+  - ✔ We provide free updates for you as long as it doesn't affect your Project. 
+  
+---
+  
+## <a id="resell"></a>🛒 〢RE-Sell
+  
+  - if want reseller, please read this box for understanding.
+  
+  - If you want to Re-sell Project Private, you need to pay +30 USD
+  
+### 💬 Example : Valorant Private 80 USD for play only / To re-sell you need to pay +30 USD = 110 USD.
+  ```
+  PAY > CREATE PROJECT AND SETUP FOR RE-SELL > GIFT 30% / MONTH
+  ```
+  
+  -  If your sales are below 500 USD, we won't take 30% from you.
+  
+## This is what you will get
+
+- You can control everything.
+- Customize your sales : Day / Week / Month
+- Use the Key Auth API to generate keys to use. https://keyauth.win/
+- Loader , Logo , Name , Imgui ( Foryou )
+  
+ ---
+  
