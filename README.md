@@ -14,6 +14,7 @@
 
 ## <a id="content"></a>📢 〢 Content
 
+- [🤑・Payment](#Payment)
 - [🔴・Project Private](#Project_Private)
 - [🔰・ Product Warranty](#Product_Warranty)
 - [🌌・Discord](#discord)
@@ -22,6 +23,20 @@
 - [📁・Source Code](#source)
 - [🛒・Re-Sell](#resell)
 - [📌・Inspection](#system)
+
+
+## <a id="Payment"></a>🤑 〢 Payment Method
+
+- Crypto (**We accept all coins and Crypto payments get a discount of -10 USD.**)
+
+- Paypal (You only need to pay F&F because we don't accept GNS payments as we don't want to wait 10-15 days to get Paid.)
+
+- Razer Gold Pin Gift Card USD & Global ONLY (Gift card payments must be +10 USD as the tax in my country is very High.)
+
+- Mastercard & Visa (Used to buy gift Cards.)
+
+#### IF you have another form of payment, please contact Discord for more information. [DISCORD](https://discord.gg/7vVb9g7FGT)
+---
 
 ## <a id="Project_Private"></a>🔴 〢 What is Project Private 
 
