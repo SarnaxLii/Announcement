@@ -21,6 +21,7 @@
 - [🔒・Hardware ID Locking](#HardwareID)
 - [📁・Source Code](#source)
 - [🛒・Re-Sell](#resell)
+- [📌・Inspection](#system)
 
 ## <a id="Project_Private"></a>🔴 〢 What is Project Private 
 
@@ -122,3 +123,19 @@ SOURCE CODE + DRIVER + INJECTOR + IMGUI + LOADER + KEYAUTH (IF YOU WANT RE-SELL)
   
  ---
   
+## <a id="system"></a>📌 〢Inspection
+
+### Source code 
+- We have prevented leaks about source code if someone bought it and released it to the public. We will have the text contained in the source as a number, which will differ from person to person if the source code is released publicly. We will be able to check from the source internal number and we will remove him from the server immediately and even if the source code is exposed. But when the game is updated They won't be able to use it :) , because only me updater can do it. You won't be able to find that number. because it is a number converted from a letter But you don't need to understand it. we did this to prevent data leaking out
+
+- We have the source's anti-cracking protection, of course, the chances of them breaking it are only 30%.
+
+### Cheating Private & Spoofer
+
+- If you want to share cheats with your friends / need to pay +40 USD per person, limited to max 5 people only.
+
+- When someone tries to crack my program They will immediately have all the information stolen. Of course, our defense system is very strong.
+
+ ---
+ 
+ 
