@@ -22,7 +22,9 @@
 - [🔒・Hardware ID Locking](#HardwareID)
 - [📁・Source Code](#source)
 - [🛒・Re-Sell](#resell)
-- [📌・Inspection](#system)
+- [📌・Inspection](#system) 
+- [⚙・Product update](#update)
+- [🛑・How to Check For Fraud](#check)
 
 
 ## <a id="Payment"></a>🤑 〢 Payment Method
@@ -74,6 +76,8 @@
 ---
 
 ## <a id="Spoofer"></a>🧹 〢Spoofer Private
+
+- My spoofer private supports all motherboards. because when you complete the payment We will ask for information about your PC (motherboard , winver , CPU etc) , so don't worry your motherboard is not supported.
 
 - ✔ FIVEM
 
@@ -153,4 +157,19 @@ SOURCE CODE + DRIVER + INJECTOR + IMGUI + LOADER + KEYAUTH (IF YOU WANT RE-SELL)
 
  ---
  
+## <a id="update"></a>⚙ 〢Product update
+
+### Cheating Private & Spoofer Private
+- When the game is updated We will update according to the game within 1-2 hours, and it takes 5-6 hours to update, depending on how big the update is in the game.
+
+- Spoofer will update to support the latest game. to be able to effectively delete files and make it spoofer every time
+
+ ---
  
+ ## <a id="check"></a>🛑 〢How to Check For Fraud
+ 
+- When it's reported "Ban from my personal project", we will immediately begin checking whether it is true or not. If true, we will refund you immediately. Because there has been an incident where some customers use other companies' Cheating and get banned. But claiming to have been banned because of my Cheating private. We will prevent this from happening in the future.
+
+- Verification process (which may be 3-5 days) // We have all inspections and evidence. so don't worry If you get banned for cheating my private, we will refund your full amount.
+
+ ---
