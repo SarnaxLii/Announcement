@@ -25,7 +25,7 @@
 - [📌・Inspection](#system) 
 - [⚙・Product update](#update)
 - [🛑・How to Check For Fraud](#check)
-
+- [ ❓・Question and Answer](#question)
 
 ## <a id="Payment"></a>🤑 〢 Payment Method
 
@@ -173,3 +173,43 @@ SOURCE CODE + DRIVER + INJECTOR + IMGUI + LOADER + KEYAUTH (IF YOU WANT RE-SELL)
 - Verification process (which may be 3-5 days) // We have all inspections and evidence. so don't worry If you get banned for cheating my private, we will refund your full amount.
 
  ---
+  
+  ## <a id="question"></a>❓ 〢 Question and Answer
+  
+  ```
+  A : How long does it take to create?
+B : In general It takes 2-3 days to create. If other work comes in, maybe 4-5 days, but not more than 1 week for sure.
+
+A : How long is the warranty for the product?
+B : Lifetime warranty and there is a refund if you damage it.
+
+A : Why don't you sell daily / monthly / yearly?
+B : For some reason, we don't want to sell daily and monthly, we only sell permanently, sorry.
+
+A : If you buy a product and want to sell it can this be done
+B : If you want to resell can be done for sure But you have to give us 15% of your total income, for example 1,000 / Month you have to give us 15%, that's 150.
+Exception: If your balance does not reach 500 / Month, we will not take 15% from you.
+
+A : You can test before purchasing, for example 1 hour.
+B : Can't do that because it wasn't built in advance. Because you have to pay to start building the project. That's why it is safe.
+
+A : When the game is updated Will I have to pay to receive updates?
+B : You only pay 1 time and you don't have to pay again because we support all the time.
+
+A : If you want to change from playing 1 player to playing 2 players, can it be done?
+B : It can be done, but you have to pay + 30 to play 2 players.
+
+A : Lock attached to what?
+B : Hardware ID and many more
+
+A : What products do you guarantee?
+B : Everything I sell on the server.
+
+A : Do you have videos or samples?
+B : Like I told you, there are no videos and pictures because you decide by yourself. There may be videos from other projects for you to view.
+
+A : If you get banned, what will you do?
+B : Full refund and we will cancel the ban for you
+ ```
+  
+  ---
