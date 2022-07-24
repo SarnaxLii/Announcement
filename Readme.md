@@ -128,7 +128,7 @@ SOURCE CODE + DRIVER + INJECTOR + IMGUI + LOADER + KEYAUTH (IF YOU WANT RE-SELL)
   
   - If you want to Re-sell Project Private, you need to pay +30 USD
   
-### 💬 Example : Valorant Private 80 USD for play only / To re-sell you need to pay +30 USD = 110 USD.
+### 💬 Example : Valorant Private 90 USD for play only / To re-sell you need to pay +30 USD = 110 USD.
   ```
   PAY > CREATE PROJECT AND SETUP FOR RE-SELL > GIFT 30% / MONTH
   ```
